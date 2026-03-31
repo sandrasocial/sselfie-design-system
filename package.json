@@ -11,5 +11,9 @@
     "./tailwind": "./tailwind/preset.ts"
   },
   "keywords": ["sselfie", "design-system", "tokens", "tailwind"],
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.4.0"
+  }
 }

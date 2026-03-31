@@ -1,6 +1,6 @@
 {
   "name": "@sselfie/design-system",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "SSELFIE shared design tokens, CSS custom properties, and Tailwind preset",
   "main": "./index.ts",
   "types": "./index.ts",

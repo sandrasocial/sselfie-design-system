@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.2.0 (2026-03-31)
+
+### Added
+- devDependencies for CI type-check (tailwindcss, typescript)
+
+### Fixed
+- pnpm-lock.yaml added
+
+### Changed
+- Repo made public for Vercel dependency resolution
+
 ## 0.1.0 (2026-03-31)
 
 ### Added

@@ -1,0 +1,64 @@
+/**
+ * SSELFIE Design System — CSS Custom Properties
+ * Import this file in your app's global CSS: @import "@sselfie/design-system/css"
+ */
+
+:root {
+  /* Stone Palette */
+  --stone-deepest: #0d0c0b;
+  --stone-dark: #1c1b19;
+  --stone-mid: #2e2c29;
+  --stone-raw: #2a2720;
+  --stone-granite: #1a1815;
+  --stone-quarry: #3a3630;
+  --stone-accent: #a8a49c;
+  --stone-pale: #c8c4bb;
+
+  /* Named Color Aliases */
+  --color-obsidian: #0d0c0b;
+  --color-porcelain: #f0ede8;
+  --color-pearl: #2e2c29;
+  --color-smoke: #8a8780;
+  --color-whisper: #c8c4bb;
+
+  /* Text */
+  --text-primary: #f0ede8;
+  --text-secondary: #8a8780;
+  --text-accent: #a8a49c;
+  --text-cta: #c8c4bb;
+
+  /* Glass */
+  --glass-bg: rgba(175, 170, 162, 0.10);
+  --glass-bg-mid: rgba(175, 170, 162, 0.18);
+  --glass-bg-heavy: rgba(175, 170, 162, 0.25);
+  --glass-border: rgba(195, 190, 182, 0.25);
+  --glass-border-subtle: rgba(195, 190, 182, 0.15);
+  --glass-divider: rgba(175, 170, 162, 0.12);
+  --glass-input-bg: rgba(175, 170, 162, 0.08);
+  --glass-input-border: rgba(195, 190, 182, 0.20);
+  --app-overlay: rgba(28, 27, 25, 0.96);
+  --app-overlay-soft: rgba(13, 12, 11, 0.92);
+
+  /* Blur */
+  --blur-light: 20px;
+  --blur-standard: 50px;
+  --blur-heavy: 70px;
+
+  /* App Backgrounds */
+  --app-bg-primary: #0d0c0b;
+  --app-bg-surface: #1c1b19;
+  --app-bg-elevated: #2e2c29;
+  --app-bg-glow-1: rgba(42, 39, 32, 0.7);
+  --app-bg-glow-2: rgba(26, 24, 21, 0.5);
+  --app-bg-glass: rgba(175, 170, 162, 0.10);
+  --app-bg-glass-strong: rgba(175, 170, 162, 0.18);
+
+  /* Typography */
+  --font-display: 'Cormorant Garamond', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-serif: var(--font-display);
+  --font-sans: var(--font-body);
+
+  /* Radius */
+  --radius-card: 20px;
+}
